@@ -1,0 +1,20 @@
+//switchcase
+
+$day = "day";
+
+switch($day){
+case 'monday':
+echo " today is monday";
+break;
+
+case 'tuesday':
+    echo " today is tuesday";
+    break;
+
+    default:
+        echo " i don't know ";
+        break;
+        
+    
+
+}
